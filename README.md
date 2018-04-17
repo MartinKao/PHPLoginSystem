@@ -1,2 +1,2 @@
-# PHPLoginSystem
-Login System with User Registration from udemy course
+# PHP-Login-System
+A sample login system with user registration
